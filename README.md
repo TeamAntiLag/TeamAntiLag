@@ -16,11 +16,12 @@ A **Team AntiLag** desenvolve soluções voltadas para **alto desempenho**, com 
 
 ---
 
-## 🛠️ Stack & Tecnologias
+## 🌐 Conecte-se com a Team AntiLag
 
-![Windows](https://img.shields.io/badge/WINDOWS-OPTIMIZATION-0A0A0A?style=for-the-badge)
-![CSharp](https://img.shields.io/badge/C%23-DEVELOPMENT-0A0A0A?style=for-the-badge)
-![Python](https://img.shields.io/badge/PYTHON-AUTOMATION-0A0A0A?style=for-the-badge)
-![Performance](https://img.shields.io/badge/PERFORMANCE-TUNING-0A0A0A?style=for-the-badge)
-![Gaming](https://img.shields.io/badge/GAMING-COMPETITIVE-0A0A0A?style=for-the-badge)
-![Web](https://img.shields.io/badge/WEB-DEVELOPMENT-0A0A0A?style=for-the-badge)
+### Instagram
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-TeamAntiLag-0A0A0A?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/team.antilag/)
+
+### CEOs
+[![YouTube](https://img.shields.io/badge/YOUTUBE-KaykeKlippel-0A0A0A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kaykekkj/videos)
+
+[![YouTube](https://img.shields.io/badge/YOUTUBE-JohnzinN-0A0A0A?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@JohnzinNTV/videos)
